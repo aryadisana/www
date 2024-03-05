@@ -1,2 +1,4 @@
 ini coba-coba
 - membuat aplikasi 
+- laragon
+- laravel
