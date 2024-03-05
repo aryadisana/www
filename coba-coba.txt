@@ -1,4 +1,4 @@
 ini coba-coba
 - membuat aplikasi 
 - laragon
-- vue
+- laravel
